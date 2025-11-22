@@ -1,0 +1,24 @@
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.csproj.AssemblyReference.cache
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD_PESSOAL.Form1.resources
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.csproj.GenerateResource.cache
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.AssemblyInfoInputs.cache
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.AssemblyInfo.cs
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.csproj.CoreCompileInputs.cache
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\CRUD PESSOAL.exe
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\CRUD PESSOAL.deps.json
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\CRUD PESSOAL.runtimeconfig.json
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\CRUD PESSOAL.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\CRUD PESSOAL.pdb
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\System.Data.SqlClient.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\bin\Debug\net9.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PES.281B021B.Up2Date
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\refint\CRUD PESSOAL.dll
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.pdb
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\CRUD PESSOAL.genruntimeconfig.cache
+C:\Users\JONAS\OneDrive\Documentos\ADS\Programação para BD\CRUD PESSOAL\obj\Debug\net9.0-windows\ref\CRUD PESSOAL.dll
